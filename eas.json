@@ -1,0 +1,19 @@
+{
+  "build": {
+    "production": {
+      "android": {
+        "workflow": "managed",
+        "buildType": "apk"
+      }
+    },
+    "preview": {
+      "android": {
+        "workflow": "managed",
+        "buildType": "apk"
+      }
+    }
+  },
+  "cli": {
+    "version": ">=3.0.0"
+  }
+}

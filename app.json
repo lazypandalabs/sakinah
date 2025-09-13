@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "41572ec1-fa25-4aed-96a4-413baa74baea"
+      }
+    },
+    "owner": "mdfasihul.kabir"
   }
 }
