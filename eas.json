@@ -1,14 +1,14 @@
 {
   "build": {
     "production": {
+      "platforms": ["android"],
       "android": {
-        "workflow": "managed",
         "buildType": "apk"
       }
     },
     "preview": {
+      "platforms": ["android"],
       "android": {
-        "workflow": "managed",
         "buildType": "apk"
       }
     }
