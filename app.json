@@ -16,6 +16,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "io.github.lazypandalabs.sakinah",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
@@ -31,6 +32,6 @@
         "projectId": "b465dd3f-fadf-49c0-8bbb-ea33a1c4cafe"
       }
     },
-    "owner": "mdfasihul.kabir"
+    "owner": "lazypandalabs"
   }
 }
